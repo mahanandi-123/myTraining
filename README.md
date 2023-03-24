@@ -1,3 +1,3 @@
 # myTraining
 
-This is main branch
+Hi, Hello.. This repository created for test.
