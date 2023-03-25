@@ -24,3 +24,7 @@ Hello, This is myRebase test, and doing some tests for to learn
 Hi, This is Bhavi
 
 Hi This is Mahanandi Alle
+
+After merge feature/test2
+I'm writing a letter to Police officer
+
