@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb0621c3-efcc-4b3e-b066-974b81ca7019" name="Changes" comment="This is main branch" />
+    <list default="true" id="18d84c1d-de34-46bc-a67f-5bd06da60672" name="Changes" comment="This is main branch">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="feature/test" />
+    <option name="OPTIONS">
+      <set>
+        <option value="FF_ONLY" />
+      </set>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -82,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679664413765</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="modify workspace xml">
+      <created>1679677644443</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1679677644443</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,6 +118,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add myname" />
     <MESSAGE value="This is main branch" />
-    <option name="LAST_COMMIT_MESSAGE" value="This is main branch" />
+    <MESSAGE value="modify workspace xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify workspace xml" />
   </component>
 </project>

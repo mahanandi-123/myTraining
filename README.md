@@ -9,3 +9,6 @@ Here is my git test
 Practice git test
 
 Test the git rebase
+
+Before Merge feature branch
+
