@@ -6,7 +6,7 @@ This is Gautham Alle..
 
 Here is my git test
 
-Practice git test
+git test
 
 Test the git rebase
 
