@@ -10,5 +10,4 @@ Practice git test
 
 Test the git rebase
 
-Before Merge feature branch
-
+This is the second test of Merge or Rebase
