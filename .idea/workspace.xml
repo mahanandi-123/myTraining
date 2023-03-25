@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18d84c1d-de34-46bc-a67f-5bd06da60672" name="Changes" comment="This is main branch">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="fb0621c3-efcc-4b3e-b066-974b81ca7019" name="Changes" comment="Git test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,10 +18,20 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="feature/test" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitRewordedCommitMessages">
+    <option name="commitMessagesMapping">
+      <RewordedCommitMessageMapping>
+        <option name="originalMessage" value="Gaggu Alle" />
+        <option name="rewordedMessage" value="Write letter to principle" />
+      </RewordedCommitMessageMapping>
+    </option>
+    <option name="currentCommit" value="1" />
+    <option name="onto" value="909fef96a3b9916ca6e9bebbae9e21046d210632" />
   </component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
@@ -100,7 +107,98 @@
       <option name="project" value="LOCAL" />
       <updated>1679677644443</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="doing some tests">
+      <created>1679738629218</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679738629218</updated>
+    </task>
+    <task id="LOCAL-00008" summary="doing some tests">
+      <created>1679738952576</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1679738952576</updated>
+    </task>
+    <task id="LOCAL-00009" summary="This is bittu">
+      <created>1679739002098</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1679739002098</updated>
+    </task>
+    <task id="LOCAL-00010" summary="This is main bhavi">
+      <created>1679739059703</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1679739059703</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Modify name">
+      <created>1679739443770</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1679739443770</updated>
+    </task>
+    <task id="LOCAL-00012" summary="writing letter">
+      <created>1679739683662</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1679739683662</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Thi is CCC">
+      <created>1679739725476</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1679739725476</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Identify letters">
+      <created>1679739907803</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1679739907803</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Gaggu Alle">
+      <created>1679740059805</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1679740059805</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Principle Sir">
+      <created>1679740089537</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1679740089537</updated>
+    </task>
+    <task id="LOCAL-00017" summary="This is AAA">
+      <created>1679740110911</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1679740110911</updated>
+    </task>
+    <task id="LOCAL-00018" summary="This is Gautham">
+      <created>1679740414946</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1679740414947</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Git test">
+      <created>1679740448870</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1679740448870</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,6 +217,18 @@
     <MESSAGE value="Add myname" />
     <MESSAGE value="This is main branch" />
     <MESSAGE value="modify workspace xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="modify workspace xml" />
+    <MESSAGE value="doing some tests" />
+    <MESSAGE value="This is bittu" />
+    <MESSAGE value="This is main bhavi" />
+    <MESSAGE value="Modify name" />
+    <MESSAGE value="writing letter" />
+    <MESSAGE value="Thi is CCC" />
+    <MESSAGE value="Identify letters" />
+    <MESSAGE value="Gaggu Alle" />
+    <MESSAGE value="Principle Sir" />
+    <MESSAGE value="This is AAA" />
+    <MESSAGE value="This is Gautham" />
+    <MESSAGE value="Git test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Git test" />
   </component>
 </project>
