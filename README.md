@@ -2,7 +2,7 @@
 
 Hi, Hello.. This repository created for test.
 
-This is Gaggu Alle..
+This is Gautham Alle..
 
 Here is my git test
 
@@ -14,7 +14,7 @@ Before Merge feature branch
 
 This is test to check the original value
 
-Hi, How are you, This is bittu
+Hi, How are you, This is Gatutham
 
 
 Hi, How are you, This is bittu
