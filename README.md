@@ -10,6 +10,7 @@ Practice git test
 
 Test the git rebase
 
-This is the second test of Merge or Rebase
+Before Merge feature branch
 
-Hello, This is myRebase test, and doing some tests for to learn
+This is test to check the original value
+
